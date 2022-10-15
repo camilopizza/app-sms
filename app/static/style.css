@@ -1,6 +1,6 @@
 html { background: rgb(110, 0, 161); padding: 1rem; }
 body { max-width: 960px; margin: 0 auto; background: white; }
-h1 { color: #a205e0; margin: 1rem 0; }
+h1 { color: #6e0099; margin: 1rem 0; }
 a { color: #da2ee0ec; }
 hr { border: none; border-top: 1px solid lightgray; }
 nav { background: rgb(194, 0, 233); display: flex; align-items: center; padding: 0 0.5rem; }
